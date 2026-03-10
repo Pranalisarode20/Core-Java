@@ -2,7 +2,7 @@
 
 
 
-   public class greater{
+   public class Greater{
 
     public static void main(String args [])
      {
@@ -25,7 +25,7 @@ OUTPUT : Adult
 2. Write a program to check whether a number is divisible by 10.
 
 
-public class divi{
+public class Divi{
  public static void main(String args[])
   {
     int num = 20;
@@ -45,7 +45,7 @@ OUTPUT : Divisible by 10
 3. Write a program to check whether a temperature is above 30°C, then print "Hot Day".
 
 
-public class tem{
+public class Temp{
     public static void main(String args [])
    {
       double tem = 40; 
@@ -66,7 +66,7 @@ OUTPUT : Today Is Hot Day
 
 4. Write a program to check whether a number is even or odd.
 
-public class oddeven{
+public class Oddeven{
   public static void main(String args[])
  {
       int num = 34;
@@ -86,7 +86,7 @@ OUTPUT : 34 Is Even Number
 
 5. Write a program to check whether a given year is leap year or not.
 
- public class leap{
+ public class Leap{
   public static void main(String args[])
   {
     int year = 2024;
@@ -105,7 +105,7 @@ OUTPUT : 2024 IS leap year
 
 6. Write a program to check whether a number is positive or negative.
 
-public class positivenegative{
+public class PositiveNegative{
    public static void main(String args[])
   {
      int num = 30;
@@ -131,7 +131,7 @@ OUTPUT : Number is Positive
 Below 35 → Fail
 
 
-public class marks{
+public class Marks{
   public static void main(String args[])
 {
   int marks = 90;
@@ -159,7 +159,7 @@ OUTPUT : Grade A
 
 
 8. Write a program to print the day of the week based on day number (1–7).
- public class week{
+ public class Week{
    public static void main(String args [])
   {
       int day =7;
@@ -197,7 +197,7 @@ OUTPUT : Sunday
 
 9. Write a program to check the type of triangle (Equilateral, Isosceles, or Scalene).
 
-public class triangle {
+public class Triangle {
 	public static void main(String []args)
 	{
 	 int a = 5;
@@ -217,9 +217,6 @@ public class triangle {
 OUTPUT : Isosceles Triangle
 
 
-
-
-
 10. Write a program to print a message based on age group:
 
 0–12 → Child
@@ -227,7 +224,7 @@ OUTPUT : Isosceles Triangle
 20–59 → Adult
 60+ → Senior Citizen
 
-public class agegroup{
+public class Agegroup{
  public static void main(String args[])
 {
   int age =12;
@@ -253,7 +250,7 @@ OUTPUT : Child
 
 11. Write a program to classify a temperature as Hot, Warm, Cool, or Cold. 
  
-public class temperature{
+public class Temperature{
  public static void main(String args [])
 {
   int temp = 4;
@@ -279,7 +276,7 @@ OUTPUT : Today Temperature Is Cold...
 
 12. Write a program to check whether a number is positive, negative, or zero.
 
-public class zero{
+public class Zero{
  public static void main(String args [])
 {
    int num = 3;
@@ -300,7 +297,7 @@ OUTPUT : 3 Is Positive..
 
 13. Write a program to check if a person is eligible to vote, and if eligible, check if they can contest in elections (age ≥ 25).
 
-public class voting{
+public class Voting{
  public static void main(String args [])
 {
   int age = 19;
@@ -316,11 +313,9 @@ if(age >= 25){
 OutPUT : Not Eligible For Voting...
 
 
-
-
 14. Write a program to check if a year is leap year, and if leap, check if it’s a century year.
 
-public class leapyear{
+public class Leapyear{
  public static void main(String args[])
 {
   int year = 2024;
@@ -338,7 +333,7 @@ OUTPUT : 2024 Is leap year..
 
 15. Write a program to check whether a number is even, and if even, check whether it’s greater than 50.
 
-public class even{
+public class Even{
  public static void main(String args[])
 {
   int num = 54;
