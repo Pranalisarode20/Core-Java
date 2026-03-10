@@ -20,7 +20,7 @@
 
 OUTPUT : Adult
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 2. Write a program to check whether a number is divisible by 10.
 
@@ -41,7 +41,6 @@ public class divi{
 
 OUTPUT : Divisible by 10
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Write a program to check whether a temperature is above 30°C, then print "Hot Day".
 
@@ -62,7 +61,7 @@ public class tem{
 
 OUTPUT : Today Is Hot Day
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 4. Write a program to check whether a number is even or odd.
@@ -83,7 +82,7 @@ public class oddeven{
 
 OUTPUT : 34 Is Even Number
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 5. Write a program to check whether a given year is leap year or not.
 
@@ -102,7 +101,7 @@ OUTPUT : 34 Is Even Number
 
 OUTPUT : 2024 IS leap year
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 6. Write a program to check whether a number is positive or negative.
 
@@ -122,7 +121,7 @@ public class positivenegative{
 
 OUTPUT : Number is Positive
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 7. Write a program to find grade of a student based  on marks:
 90–100 → Grade A
@@ -156,7 +155,7 @@ if(marks >= 90 && marks < 100){
 
 OUTPUT : Grade A
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 8. Write a program to print the day of the week based on day number (1–7).
@@ -194,7 +193,7 @@ OUTPUT : Grade A
 
 OUTPUT : Sunday 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 9. Write a program to check the type of triangle (Equilateral, Isosceles, or Scalene).
 
@@ -217,7 +216,7 @@ public class triangle {
 
 OUTPUT : Isosceles Triangle
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -250,7 +249,7 @@ public class agegroup{
 
 OUTPUT : Child
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 11. Write a program to classify a temperature as Hot, Warm, Cool, or Cold. 
  
@@ -276,7 +275,7 @@ if(temp >= 4){
 
 OUTPUT : Today Temperature Is Cold...
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 12. Write a program to check whether a number is positive, negative, or zero.
 
@@ -297,7 +296,7 @@ public class zero{
 
 OUTPUT : 3 Is Positive..
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 13. Write a program to check if a person is eligible to vote, and if eligible, check if they can contest in elections (age ≥ 25).
 
@@ -316,7 +315,7 @@ if(age >= 25){
 
 OutPUT : Not Eligible For Voting...
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 14. Write a program to check if a year is leap year, and if leap, check if it’s a century year.
@@ -335,7 +334,7 @@ public class leapyear{
 
 
 OUTPUT : 2024 Is leap year..
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 15. Write a program to check whether a number is even, and if even, check whether it’s greater than 50.
 
